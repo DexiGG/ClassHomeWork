@@ -1,0 +1,7 @@
+C:\Users\ДжабашевН.CORP\source\repos\ClasssHomeWork\ClasssHomeWork\bin\Debug\ClasssHomeWork.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\ClasssHomeWork\ClasssHomeWork\bin\Debug\ClasssHomeWork.exe
+C:\Users\ДжабашевН.CORP\source\repos\ClasssHomeWork\ClasssHomeWork\bin\Debug\ClasssHomeWork.pdb
+C:\Users\ДжабашевН.CORP\source\repos\ClasssHomeWork\ClasssHomeWork\obj\Debug\ClasssHomeWork.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\ClasssHomeWork\ClasssHomeWork\obj\Debug\ClasssHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\ClasssHomeWork\ClasssHomeWork\obj\Debug\ClasssHomeWork.exe
+C:\Users\ДжабашевН.CORP\source\repos\ClasssHomeWork\ClasssHomeWork\obj\Debug\ClasssHomeWork.pdb
